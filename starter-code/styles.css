@@ -1,0 +1,219 @@
+body{
+	font-family: helvetica;
+}
+body a{
+	text-decoration: none;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  padding-bottom: 0;
+  height: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  
+}
+.top-left{
+	display: inline-block;
+	margin: 0 auto;
+
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+ 
+.top-links li {
+  display: inline-block;
+  margin: 0 auto;
+  height: 100%;
+ 
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.npm-search{
+	display: inline-block;
+	width: 100%;
+	padding: 10px;
+	margin-top: 0 auto;
+	text-align: center;
+	color: white;
+}
+.search{
+	width: 50%;
+	padding: 8px;
+	background-color: rgb(42, 83, 150);
+	margin-right: 150px;
+	color: white;
+
+}
+
+.npm-logo{
+	height: 40px;
+	float:left;
+}
+header{
+	background-image: url("file:///C:/Users/paugf/Desktop/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+	height: 450px;
+
+}
+
+header h1{
+	
+	font-size: 36px;
+	padding: 9px;
+}
+header a{
+	text-decoration: none;
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+	
+}
+header span{
+	text-decoration: none;
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+
+}
+
+
+.description{
+	font-family: helvetica;
+	font-size: 20px;
+	float: left;
+	margin-left: 250px;
+	color: white;
+}
+header button{
+	width: 200px;
+	font-size: 15px;
+	background-color: orange;
+	color: white;
+	border-radius: 40px;
+	border-style: none;
+	padding: 18px;
+}
+.orgs{
+
+	background-color: rgb(41, 44, 114);
+	
+	padding: 80px;
+	padding-left: 200px;
+	padding-right: 200px;
+	color: white;
+	font-family: helvetica;
+
+}
+.orgs img{
+	width: 600px;
+	padding: 50px;
+	margin: 0 auto;
+}
+
+.orgs h2{
+	color: white;
+	
+	font-size: 36px;
+	padding: 9px;
+	margin-bottom: 0;
+	margin-right: 50px;
+}
+.list{
+	float: right;
+}
+
+.orgs ul {
+	 
+	 padding: 15px;
+	 padding-left: 50px;
+	 margin-top: 0;
+	 margin-left: 15px; 
+
+}
+.orgs a{
+	text-decoration: none;
+	color: white;
+}
+.orgs button{
+	width: 200px;
+	font-size: 15px;
+	background-color: rgb(244, 66, 66);
+	color: white;
+	border-radius: 40px;
+	border-style: none;
+	padding: 18px;
+	margin-left: 15px; 
+}
+.forklift{
+	background-size: cover;
+}
+.container{
+	background: url(file:///C:/Users/paugf/Desktop/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+	background-size: cover;
+	
+	height: 500px;
+	
+}
+.texts{
+	position: absolute;
+	padding: 50px 90px;
+	color: white;
+	font-family: helvetica;
+}
+.texts button{
+	background-color: rgb(49, 68, 88);
+	width: 200px;
+	font-size: 15px;
+	
+	color: white;
+	border-radius: 40px;
+	border-style: none;
+	padding: 18px;
+}
+
+.hori{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.wrap{
+	width: 70%;
+	margin: 0 auto;
+}
+.bin{
+	float: left;
+	width: 33%;
+	text-align: center;
+	
+	padding: 18px;
+}
+.back{
+	float: right;
+	width: 33%;
+	text-align: center;
+	
+	padding: 18px;
+
+}
+.moun{
+	margin: 0 auto;
+	width: 33%;
+	text-align: center;
+	
+	padding: 18px;
+}
+
+.wrap a{
+	color: rgb(208, 74, 73);
+}
